@@ -8,4 +8,5 @@ References
     - 
 2. 2021_[Comprehensive Characterization and Validation of Chromosome-Specific Highly Polymorphic SSR Markers From Pomegranate (Punica granatum L.) cv. Tunisia Genome](https://www.frontiersin.org/articles/10.3389/fpls.2021.645055/full)
     - using KRAIT tools to predict SSR markers using the whole genome sequences
+    - supplementary data
 3. 
